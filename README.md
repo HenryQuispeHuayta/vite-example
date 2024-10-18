@@ -9,6 +9,8 @@
   - [Install Dependencies](#install-dependencies)
   - [Configuration](#configuration)
 
+![View full screan]()
+
 ## Prerequisites
 
 Make sure you have the following installed:

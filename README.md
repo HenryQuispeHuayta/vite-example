@@ -9,7 +9,7 @@
   - [Install Dependencies](#install-dependencies)
   - [Configuration](#configuration)
 
-[test]()
+Test
 
 ## Prerequisites
 

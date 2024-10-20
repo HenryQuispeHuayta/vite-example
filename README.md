@@ -9,7 +9,7 @@
   - [Install Dependencies](#install-dependencies)
   - [Configuration](#configuration)
 
-![View full screan]()
+Test
 
 ## Prerequisites
 

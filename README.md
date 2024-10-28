@@ -9,8 +9,6 @@
   - [Install Dependencies](#install-dependencies)
   - [Configuration](#configuration)
 
-Test
-
 ## Prerequisites
 
 Make sure you have the following installed:
